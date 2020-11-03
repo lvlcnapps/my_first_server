@@ -5,6 +5,8 @@ https://github.com/lvlcnapps/my_first_server/blob/master/BR%20TopDown%20Server/x
 Then run a client, link:
 https://github.com/lvlcnapps/my_first_server/blob/master/BR%20TopDown/x64/Release/BR%20TopDown.exe?raw=true
 
+Also you need some libs, that you can find in project. Later i will create zip file with all needed files.
+
 In server window you can see ip and port.
 Insert it after running in client app.
 Then type your nickname and join game.
