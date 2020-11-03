@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\BR TopDown Server\BR TopDown Server\main.cpp(108,52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\BR TopDown Server\BR TopDown Server\main.cpp(108,78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\BR TopDown Server\BR TopDown Server\main.cpp(68,17): warning C4101: 'received': unreferenced local variable
+C:\Users\admin\source\repos\BR TopDown Server\BR TopDown Server\main.cpp(69,17): warning C4101: 'received2': unreferenced local variable
+  BR TopDown Server.vcxproj -> C:\Users\admin\source\repos\BR TopDown Server\x64\Debug\BR TopDown Server.exe
